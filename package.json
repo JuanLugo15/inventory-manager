@@ -1,0 +1,15 @@
+{
+  "name": "inventory-manager",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Small inventory management application with JSON persistence",
+  "type": "module",
+  "scripts": {
+    "test": "node --test --test-isolation=none tests/inventory.test.mjs",
+    "list": "node src/cli.mjs list",
+    "low-stock": "node src/cli.mjs low-stock"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
