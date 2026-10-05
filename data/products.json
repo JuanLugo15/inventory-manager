@@ -1,0 +1,5 @@
+[
+  {"sku":"CAF-001","name":"Coffee beans 500g","category":"Grocery","price":18.5,"stock":24,"minStock":8},
+  {"sku":"MUG-002","name":"Ceramic mug","category":"Household","price":9.9,"stock":6,"minStock":10},
+  {"sku":"NOT-003","name":"Pocket notebook","category":"Stationery","price":4.75,"stock":40,"minStock":12}
+]
